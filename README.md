@@ -124,11 +124,11 @@ int main() {
 ## OUTPUT
 $ ./sem.o 
 
-![img](./img/ex05.png)
+![Screenshot 2025-04-30 185547](https://github.com/user-attachments/assets/3c059453-46bc-484d-b70d-e4bfb62b5085)
 
 $ ipcs
 
-![img](./img/ex05-1.png)
+![Screenshot 2025-04-30 185554](https://github.com/user-attachments/assets/37b8fd4c-9516-445e-af33-a7583623e238)
 
 
 
